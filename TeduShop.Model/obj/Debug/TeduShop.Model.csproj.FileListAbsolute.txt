@@ -1,0 +1,10 @@
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+D:\Programming\ASP\TEDU-01\TrainingShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
